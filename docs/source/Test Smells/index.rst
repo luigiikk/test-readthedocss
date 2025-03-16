@@ -11,4 +11,3 @@ This section contains the test smells that can be found in JavaScript test suite
    comments_only_test
    test_without_description
    transcripting_test
-   
