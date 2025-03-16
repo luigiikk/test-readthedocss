@@ -10,29 +10,3 @@ Contents
 
 .. toctree::
 
-   test_without_description
-   anonymous_test
-   transcripting_test
-   comments_only_test
-   overcommented_test
-   sensitive_equality
-   general_fixture
-   assertion_roulette
-   conditional_test_logic
-   constructor_initialization
-   dependent_test
-   eager_test
-   exception_handling
-   ignored_test
-   interactive_test
-   lack_of_cohesion_of_test_cases
-   lazy_test
-   magic_number_test
-   mocking_native_functions_uncertainty
-   mistery_guest
-   non_deterministic_data_test
-   obscure_in_line_setup
-   parameter_order_wrong
-   private_method_test
-   redundant_assertions
-
