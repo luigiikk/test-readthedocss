@@ -9,4 +9,6 @@ Contents
 --------
 
 .. toctree::
+  :maxdepth: 2
+
   test_without_description
