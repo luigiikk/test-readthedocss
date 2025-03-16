@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Here we can see the test smells in JavaScript:
 
-Contents
+Test Smells
 --------
 .. toctree::
    :maxdepth: 2

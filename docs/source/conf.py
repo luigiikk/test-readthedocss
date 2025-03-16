@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Test Smell in JavaScript'
+copyright = '2025, Mateus, Luigi'
+author = 'Mateus, Luigi'
 
 release = '0.1'
 version = '0.1.0'
