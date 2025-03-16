@@ -7,8 +7,7 @@ Here we can see the test smells in JavaScript:
 
 Contents
 --------
-
 .. toctree::
-  :maxdepth: 2
+   :maxdepth: 2
 
-  test_without_description
+   test_without_description
