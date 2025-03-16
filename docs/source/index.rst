@@ -8,13 +8,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Here we can see the test smells in JavaScript:
 
-Test Smells
+Contents
 ------------
 
 .. toctree::
    :maxdepth: 2
+   :caption: Test Smells
 
-   Test-Smells/test_without_description
-   Test-Smells/anonymous_test
-   Test-Smells/transcripting_test
-   Test-Smells/comments_only_test
+   Test Smells/index
