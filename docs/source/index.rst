@@ -15,3 +15,4 @@ Test Smells
    :maxdepth: 2
 
    test_without_description
+   anonymous_test
