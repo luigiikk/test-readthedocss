@@ -17,3 +17,4 @@ Test Smells
    test_without_description
    anonymous_test
    transcripting_test
+   comments_only_test

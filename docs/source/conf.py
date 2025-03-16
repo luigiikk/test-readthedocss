@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Test Smell in JavaScript'
-copyright = '2025, Mateus, Luigi'
-author = 'Mateus, Luigi'
+copyright = '2025, Alice'
+author = 'Alice'
 
 release = '0.1'
 version = '0.1.0'
