@@ -9,4 +9,4 @@ Contents
 --------
 
 .. toctree::
-
+  test_without_description
