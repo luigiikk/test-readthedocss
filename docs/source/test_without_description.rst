@@ -10,3 +10,15 @@ Example:
    const result = getPermission();
    expect(result).toBe(true);
    });
+
+Refactor:
+
+.. code-block:: javascript
+
+   it("should be able to get permission", () => {
+  const result = getPermission();
+  expect(result).toBe(true);
+   });
+
+.. note::
+   The test case description should be clear and concise, providing a brief overview of the test case purpose and expected behavior.
