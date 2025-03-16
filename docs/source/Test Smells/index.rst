@@ -1,3 +1,6 @@
+Test Smells
+============
+This section contains the test smells that can be found in JavaScript test suites.
 .. toctree::
    :maxdepth: 4
 
