@@ -15,10 +15,11 @@ Refactor:
 
 .. code-block:: javascript
 
-   test("it should check user age to be equal to 13", () => {
+   test("it should check if user age is 13", () => {
    const user = getUser();
-   expect(user.age.toString()).toBeEqual('13');
+   expect(user.age).toBe(13);
    });
+
 
 
 .. note::
