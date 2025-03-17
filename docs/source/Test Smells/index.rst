@@ -12,3 +12,4 @@ This section contains the test smells that can be found in JavaScript test suite
    test_without_description
    transcripting_test
    overcommented_test
+   sensitive_equality
