@@ -1,4 +1,4 @@
-Test Without Description
+Comments Only Test
 ========================
 This test smell occurs when a test or test case is completely commented out, rendering it inactive. This can negatively impact test execution and harm code readability, making it harder to understand and maintain the test suite. In the example, a fully commented-out test case illustrates this issue.
 

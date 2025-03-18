@@ -1,4 +1,4 @@
-Test Without Description
+General Fixture
 ========================
 This type of test smell occurs when the test setup defines multiple data or objects, but only a subset is used. The example demonstrates that the test has a beforeEach block, which by definition is executed before each test, ensuring that each instance is initialized with defined values. However, no test case uses the guest variable.
 Example:
