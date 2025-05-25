@@ -18,4 +18,5 @@ This section contains the test smells that can be found in JavaScript test suite
    only_test
    verify_in_setup
    verbose_test
+   identical_test_description
 
