@@ -15,4 +15,5 @@ This section contains the test smells that can be found in JavaScript test suite
    sensitive_equality
    general_fixture
    non_functional_statement_test
+   only_test
 
