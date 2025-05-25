@@ -17,4 +17,5 @@ This section contains the test smells that can be found in JavaScript test suite
    non_functional_statement_test
    only_test
    verify_in_setup
+   verbose_test
 
