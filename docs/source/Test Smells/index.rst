@@ -16,4 +16,5 @@ This section contains the test smells that can be found in JavaScript test suite
    general_fixture
    non_functional_statement_test
    only_test
+   verify_in_setup
 
