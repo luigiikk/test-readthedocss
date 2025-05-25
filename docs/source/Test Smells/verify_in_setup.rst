@@ -19,4 +19,4 @@ Refactor:
 
 
 .. note::
-The test setup should not contain assertions. Assertions should be part of the actual test cases to maintain clarity and proper test structure.
+  The test setup should not contain assertions. Assertions should be part of the actual test cases to maintain clarity and proper test structure.
