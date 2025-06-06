@@ -7,13 +7,13 @@ Example:
 .. code-block:: javascript
 
   test("should validate user role", () => {
-  const user = getUser();
+    const user = getUser();
 
-  if (user.role === "admin") {
-    expect(user.hasAccess).toBe(true);
-  } else {
-    expect(user.hasAccess).toBe(false);
-  }
+    if (user.role === "admin") {
+      expect(user.hasAccess).toBe(true);
+    } else {
+      expect(user.hasAccess).toBe(false);
+    }
   });
 Refactor:
 
