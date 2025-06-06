@@ -27,4 +27,5 @@ This section contains the test smells that can be found in JavaScript test suite
    exception_handling
    ignored_test
    magic_number_test
+   empty_test
 
