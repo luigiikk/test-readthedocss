@@ -31,4 +31,5 @@ This section contains the test smells that can be found in JavaScript test suite
    redundant_assertion_test
    duplicate_assert_test
    resource_optmism_test
+   unknow_test
 
