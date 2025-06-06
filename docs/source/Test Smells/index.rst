@@ -23,4 +23,5 @@ This section contains the test smells that can be found in JavaScript test suite
    assertion_loop
    return_in_test
    assertion_roulette
+   conditional_test_logic
 
