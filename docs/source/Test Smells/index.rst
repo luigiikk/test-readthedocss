@@ -34,4 +34,5 @@ This section contains the test smells that can be found in JavaScript test suite
    unknow_test
    army_of_clones
    assertion_chorus_test
+   copy_paste
 
