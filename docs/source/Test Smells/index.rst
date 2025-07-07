@@ -32,4 +32,5 @@ This section contains the test smells that can be found in JavaScript test suite
    duplicate_assert_test
    resource_optmism_test
    unknow_test
+   army_of_clones
 
