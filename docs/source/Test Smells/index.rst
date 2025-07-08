@@ -38,4 +38,5 @@ This section contains the test smells that can be found in JavaScript test suite
    duplicate_statements_test
    duplicate_test_code
    duplicated_actions
+   duplicated_code_in_conditional
 
