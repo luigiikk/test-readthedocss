@@ -37,4 +37,5 @@ This section contains the test smells that can be found in JavaScript test suite
    copy_paste
    duplicate_statements_test
    duplicate_test_code
+   duplicated_actions
 
