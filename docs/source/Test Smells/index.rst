@@ -40,4 +40,5 @@ This section contains the test smells that can be found in JavaScript test suite
    duplicated_actions
    duplicated_code_in_conditional
    half_a_helper_method
+   missing_test_data_factory
 
