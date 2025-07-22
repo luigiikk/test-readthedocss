@@ -4,15 +4,12 @@ The Open Catalog of Test Smell in JavaScript
 What is the test smell?
 =======================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Test smells are patterns of bad practices in automated test code which, although not direct errors (such as bugs), indicate weaknesses in design, maintainability, or test effectiveness. They act as symptoms—signs that something might be wrong, even if the test still executes correctly.
 
-Here we can see the test smells in JavaScript:
-
-Contents
 ------------
 
 .. toctree::
    :maxdepth: 2
-   :caption: Test Smells
+   :caption: Test Smells in JavaScript
 
    Test Smells/index
