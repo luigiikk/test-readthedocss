@@ -42,5 +42,22 @@ This section contains the test smells that can be found in JavaScript test suite
    half_a_helper_method
    missing_test_data_factory
    test_redundancy
+   the_first_and_last_rites
+   two_for_the_price_of_one
+   hard_coded_values
+   hardcoded_environment_configuration
+   hardcoded_literals
+   hidden_complexity
+   large_macro_component
+   large_module
+   long_class
+   long_method
+   long_test
+   magic_values
+   optimizing_dry
+   self_important_test_data
+   using_complicated_path
+   disorder
+   undefined_test
 
 
