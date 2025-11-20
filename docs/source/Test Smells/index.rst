@@ -59,5 +59,16 @@ This section contains the test smells that can be found in JavaScript test suite
    using_complicated_path
    disorder
    undefined_test
+   the_distant_relative
+   assert_the_world
+   field_level_assertion
+   method_based_testing
+   existing_tests
+   split_logic
+   abnormal
+   chatty_logging
+   frequent_debugging
+   interactive_test
+   asynchronous_test
 
 
