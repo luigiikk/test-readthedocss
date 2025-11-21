@@ -80,5 +80,24 @@ This section contains the test smells that can be found in JavaScript test suite
    lonely_test
    test_run_war
    unusual_test_order
-
+   counting_on_spies
+   data_sensitivity
+   hidden_dependency
+   programming paradigms_blend
+   the_operating_system_evangelist
+   web_browsing_test
+   branch_to_assumption_anti_pattern
+   chafing
+   contaminated_test_subject
+   evolve_or
+   flexible_test
+   fully_gotten_green_test
+   generative
+   happy_path
+   indecisive
+   invasion_of_privacy
+   multiple_test_conditions
+   parsed_data
+   paranoid
+   quixotic
 
