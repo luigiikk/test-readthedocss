@@ -70,5 +70,15 @@ This section contains the test smells that can be found in JavaScript test suite
    frequent_debugging
    interactive_test
    asynchronous_test
+   inefficient_waits
+   chain_gang
+   constrained_test_order
+   coupling_between_test_methods
+   dependent_test
+   lack_of_cohesion
+   litter_bugs
+   lonely_test
+   test_run_war
+   unusual_test_order
 
 
