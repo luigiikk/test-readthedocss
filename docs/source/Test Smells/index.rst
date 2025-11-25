@@ -100,4 +100,42 @@ This section contains the test smells that can be found in JavaScript test suite
    parsed_data
    paranoid
    quixotic
+   rotten_green_test
+   skip_rotten_green_test
+   tangential
+   test_by_number
+   code_pollution
+   the_ugly_mirror
+   mock_everything
+   excessive_mocking
+   mocking_framework
+   remote_control_mocking
+   blethery_prefixes
+   constant_actual_parameter_value
+   dead_field
+   empty_method
+   everything_is_property
+   hidden_test_call
+   long_parameter_list
+   missed_skip_rotten_green_test
+   mistaken_identity
+   overreferencing
+   stop_in_function
+   test_body_is_somewhere_else
+   the_flickering_test
+   the_stepford_fields
+   time_bomb_data
+   time_bombs
+   time_sensitive_test
+   time_sensitive_test
+   unrestricted_imports
+   unused_imports
+   unused_inputs
+   complex_teardown
+   generous_leftovers
+   shared_state_corruption
+   teardown_only_test
+   the_painful_clean_up
+   the_soloist
+   exception_catch_throw
 
