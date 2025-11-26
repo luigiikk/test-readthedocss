@@ -138,4 +138,41 @@ This section contains the test smells that can be found in JavaScript test suite
    the_painful_clean_up
    the_soloist
    exception_catch_throw
+   exception_catching_throwing
+   expecting_exceptions_anywhere
+   issues_in_exception_handling
+   bury_the_lede
+   curdled_test_fixtures
+   empty_shared_fixture
+   excessive_inline_setup
+   excessive_setup
+   factories_unnecessary_data
+   noisy_logging
+   noisy_setup
+   obscure_in_line_setup
+   oversharing_on_setup
+   refused_bequest
+   share_the_world
+   test_maverick
+   test_objects_initialized_in_a_describe_block
+   test_objects_initialized_in_each_test
+   test_setup_is_somewhere_else
+   using_fixtures
+   verifying_in_setup_method
+   layer_testing
+   asserting_pre_condition_and_invariants
+   assertion_diversion
+   brittle_assertion
+   broad_assertion
+   fantasy_tests
+   invisible_assertions
+   missed_fail_rotten_green_test
+   missing_assertions
+   over_exertion_assertion
+   over_checking
+   premature_assertions
+   returning_assertion
+   second_guess_the_calculation
+   self_test
+   the_nitpicker
 
